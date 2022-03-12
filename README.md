@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Amanda Wang, a first-year at UCLA studying computer engineering.
 
 <!--
 **theamandawang/theamandawang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
