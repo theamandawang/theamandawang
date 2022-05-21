@@ -1,5 +1,9 @@
-### Hi there 👋
-I'm Amanda Wang, a first-year at UCLA studying computer engineering.
+### hi! i'm amanda (she/her)
+i am a first-year at ucla studying computer engineering, and an officer in acm ai (for highschool outreach!)
+
+✨ more about me !  ✨
+* i love foraging wild plants <3 (west virginia is amazing in spring!)
+
 
 <!--
 **theamandawang/theamandawang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
