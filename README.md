@@ -2,7 +2,7 @@
 i am a first-year at ucla studying computer engineering, and an officer in acm ai (for highschool outreach!)
 
 ✨ more about me !  ✨
-* i love foraging wild plants <3 (west virginia is amazing in spring!)
+* i love foraging wild plants <3
 
 
 <!--
