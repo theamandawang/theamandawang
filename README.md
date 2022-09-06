@@ -3,7 +3,7 @@ i am a second-year at ucla studying computer engineering, and an officer in acm 
 
 ✨ more about me !  ✨
 * i love foraging wild plants <3
-* i just finished my internship with Meta... check out Enable, my iOS accessibility app!
+* i just finished my internship with Meta... check out Enable, my iOS accessibility app! it's pinned below
 * also feel free to check out [WhatsBruin](http://whatsbruin.tech, "WhatsBruin"), a UCLA event calendar. 
 
 
