@@ -1,8 +1,10 @@
 ### hi! i'm amanda (she/her)
-i am a first-year at ucla studying computer engineering, and an officer in acm ai (for highschool outreach!)
+i am a second-year at ucla studying computer engineering, and an officer in acm ai (for highschool outreach!)
 
 ✨ more about me !  ✨
 * i love foraging wild plants <3
+* i just finished my internship with Meta... check out Enable, my iOS accessibility app!
+* also feel free to check out [WhatsBruin](http://whatsbruin.tech, "WhatsBruin"), a UCLA event calendar. 
 
 
 <!--
