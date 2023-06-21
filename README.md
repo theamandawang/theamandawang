@@ -1,5 +1,5 @@
 ### hi! i'm amanda (she/her)
-i am a second-year at ucla studying computer engineering, and an officer in acm ai (for highschool outreach!)
+i am a second-year at ucla studying computer science, and an officer in acm ai (for highschool outreach!)
 
 ✨ more about me !  ✨
 * i love foraging wild plants <3
